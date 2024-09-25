@@ -1,0 +1,5 @@
+/vendor/
+/var/
+.env
+.profiler.ndjson
+.php-cs-fixer.cache
